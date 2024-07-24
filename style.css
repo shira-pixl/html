@@ -1,0 +1,87 @@
+img {
+opacity: 0.9;
+}
+
+h1{border-style: inset;
+}
+
+body {
+  background-image: url(https://images1.ynet.co.il/PicServer5/2018/10/14/8820557/88205540991093640360no.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  background-size: 100% 100%;
+ 
+}
+
+body {
+  color:white;
+}
+h4{
+font-size:35;
+	
+}
+h2{
+	font-size:25;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+h3{
+  background-color: white;
+  color:black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+h1{
+  border-block: double;
+}
+h3{
+  border: 5px powderblue;
+}	
+
+p {
+  font-family: verdana;
+}
+p{
+	text-align:center;
+  
+}
+
+p{
+
+  font-size: 120%;
+}
+	
+
+li{
+	text-align:center;
+  font-family: verdana;
+font-size:15;
+	
+}
+p {
+  font-style: oblique;
+ 
+}
+a {
+  color: white;
+}
+ul{
+  list-style-type: circle;
+}
+
+a {
+  background-color: white;
+  color:black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
